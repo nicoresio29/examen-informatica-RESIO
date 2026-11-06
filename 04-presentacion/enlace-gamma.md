@@ -1,6 +1,6 @@
 # Presentación en Gamma
 
-- **Enlace público de Gamma:**
+- **Enlace público de Gamma:** [[presentacion_gamma](https://gamma.app/docs/Yerba-mate-organica-premium-en-Asuncion-myn8c0btmax1p08)]
 
 ## Estructura obligatoria (6 láminas)
 1. Portada (módulo, nombre, tecnicatura)
