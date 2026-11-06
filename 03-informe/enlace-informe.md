@@ -1,6 +1,6 @@
 # Informe del módulo
 
-- **Enlace a Google Docs (cualquier persona con el enlace puede ver):** [[informe_marketing]https://docs.google.com/document/d/1YHRwkkXSP5otSzEpi_-u0IBulwiq63Zf/edit?usp=sharing&ouid=106354847187346939808&rtpof=true&sd=true]
+- **Enlace a Google Docs (cualquier persona con el enlace puede ver):** [[informe_marketing](https://docs.google.com/document/d/1YHRwkkXSP5otSzEpi_-u0IBulwiq63Zf/edit?usp=sharing&ouid=106354847187346939808&rtpof=true&sd=true)]
 - **Archivo subido:** `03-informe/informe.pdf`
 
 ## Estructura del informe (1–2 páginas de contenido)
