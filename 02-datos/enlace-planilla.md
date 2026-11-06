@@ -16,7 +16,7 @@
 - `=C2/B2` (CTR) y `=D2/C2` (tasa de conversión) en la hoja KPIs.
 
 ## Gráfico
-Qué muestra: gráfico de torta con la distribución del presupuesto por canal (hoja Presupuesto), tomado de los montos asignados en USD.
+Qué muestra: gráfico de columnas con la distribución del presupuesto por canal (hoja Presupuesto), tomado de los montos asignados en USD.
 
 ## Supuestos
 - Los porcentajes del público objetivo y las metas de KPI son hipótesis a validar, no datos medidos. Se explican en el informe.
